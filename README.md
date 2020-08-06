@@ -1,6 +1,6 @@
 # Hi, I'm Tamaghno 🙂👋🏾‍💻
 
-<img src="https://github.com/Tamaghno/Tamaghno/blob/master/Tamaghno%20chaudhuribanner%202.png?raw=true" alt="banner">
+<img src="https://github.com/Tamaghno/Tamaghno/blob/master/Tamaghno%20chaudhuri-ban-3.png?raw=true" alt="banner">
 
 I'm a growing software engineer passionate about web development and creating technology to elevate people, and contributing to the open-source community.
 </br>
