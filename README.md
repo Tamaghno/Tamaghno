@@ -6,7 +6,7 @@ I'm a growing software engineer passionate about web development and creating te
 </br>
 - Work in progress
 
-## Connect me around the web 🌎: 
+## Connect with me around the web 🌎: 
 
 - Learning 📹 ✍🏾
 - Find my doodles on <a href="https://www.instagram.com/_.hijibijbij._/"> Instagram</a>✍️ 
